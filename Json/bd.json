@@ -1,0 +1,30 @@
+{
+    "person": [
+        {
+          "id" : 1,
+          "fiest-name": "Ahmad",
+          "last-name": "Hamid",
+          "email": "ahmad@gmail.com",
+          "phone": "01073877",
+          "Address": "uttara Dhaka"
+        },
+         {
+          "id" : 1,
+          "fiest-name": "Ahmad",
+          "last-name": "Hamid",
+          "email": "ahmad@gmail.com",
+          "phone": "01073877",
+          "Address": "uttara Dhaka"
+        },
+         {
+          "id" : 1,
+          "fiest-name": "Ahmad",
+          "last-name": "Hamid",
+          "email": "ahmad@gmail.com",
+          "phone": "01073877",
+          "Address": "uttara Dhaka"
+        }
+    ]
+}
+
+
