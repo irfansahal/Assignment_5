@@ -7,6 +7,6 @@
 
 [ Live netlify url for website/assignment ]( https://dulcet-sfogliatella-5002f7.netlify.app/ )    
 
-[ Live fake-json url for backend](https://fake-json-1.onrender.com/contects)
+[ Live fake-json url for backend](https://fake-json-1.onrender.com)
 
 **** maybe a few muinites can be needed for loading date
